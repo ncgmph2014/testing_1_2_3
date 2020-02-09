@@ -16,3 +16,7 @@ Examples:
 
 number([]) // => []
 number(["a", "b", "c"]) // => ["1: a", "2: b", "3: c"]
+
+### Notes:
+
+I completed this!!
